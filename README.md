@@ -1,16 +1,45 @@
-## Hi there 👋
+### Hi, I'm codeteme &nbsp;·&nbsp; Data Scientist · Data Engineer · AI Engineer
 
-<!--
-**codeteme/codeteme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building end-to-end ML pipelines and data products
+- Exploring LLMs, RAG architectures, and real-time feature stores
+- Clean code, reproducible experiments, fast feedback loops
+
+---
+
+**Projects**
+
+| Project | Description |
+|---|---|
+| [realtime-transit-pipeline](https://github.com/codeteme/realtime-transit-pipeline) | Real-time data ingestion and processing pipeline for public transit data |
+| [amazon-electronics-pyspark-pipeline](https://github.com/codeteme/amazon-electronics-pyspark-pipeline) | PySpark pipeline for large-scale Amazon electronics review analytics |
+| [airflow-yelp-pipeline](https://github.com/codeteme/airflow-yelp-pipeline) | End-to-end ETL pipeline orchestrated with Apache Airflow, loading Yelp data into PostgreSQL |
+| [IDS706_ConsumerBehavior_Analysis](https://github.com/codeteme/IDS706_ConsumerBehavior_Analysis) | E-commerce consumer behavior analysis with regression and classification models |
+| [goodreads-ml-model](https://github.com/codeteme/goodreads-ml-model) | ML pipeline predicting book popularity from Goodreads ratings and review data |
+| [early-modern-english-modernization](https://github.com/codeteme/early-modern-english-modernization) | NLP model for modernizing Early Modern English text |
+| [ids706-rideshare-sql-guidebook](https://github.com/codeteme/ids706-rideshare-sql-guidebook) | SQL analytics on ride-sharing data using SQLite |
+
+---
+
+**Tech Stack**
+
+| Layer | Tools |
+|---|---|
+| Languages | Python · SQL · Bash |
+| ML / AI | PyTorch · scikit-learn · Hugging Face · LangChain |
+| Data Engineering | dbt · Apache Spark · Airflow · Kafka |
+| Cloud & Infra | AWS · GCP · Docker · Kubernetes · Terraform |
+| Observability | MLflow · Weights & Biases · Great Expectations |
+
+---
+
+**Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeteme&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+> *"Without data you're just another person with an opinion."* - W. Edwards Deming
