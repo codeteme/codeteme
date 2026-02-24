@@ -4,9 +4,23 @@
 
 **About me**
 
-- 🔭 &nbsp; Building end-to-end ML pipelines and data products
-- 🌱 &nbsp; Exploring LLMs, RAG architectures, and real-time feature stores
-- ⚡ &nbsp; I like clean code, reproducible experiments, and fast feedback loops
+- Building end-to-end ML pipelines and data products
+- Exploring LLMs, RAG architectures, and real-time feature stores
+- Clean code, reproducible experiments, fast feedback loops
+
+---
+
+**Projects**
+
+| Project | Description |
+|---|---|
+| [realtime-transit-pipeline](https://github.com/codeteme/realtime-transit-pipeline) | Real-time data ingestion and processing pipeline for public transit data |
+| [amazon-electronics-pyspark-pipeline](https://github.com/codeteme/amazon-electronics-pyspark-pipeline) | PySpark pipeline for large-scale Amazon electronics review analytics |
+| [airflow-yelp-pipeline](https://github.com/codeteme/airflow-yelp-pipeline) | End-to-end ETL pipeline orchestrated with Apache Airflow, loading Yelp data into PostgreSQL |
+| [IDS706_ConsumerBehavior_Analysis](https://github.com/codeteme/IDS706_ConsumerBehavior_Analysis) | E-commerce consumer behavior analysis with regression and classification models |
+| [goodreads-ml-model](https://github.com/codeteme/goodreads-ml-model) | ML pipeline predicting book popularity from Goodreads ratings and review data |
+| [early-modern-english-modernization](https://github.com/codeteme/early-modern-english-modernization) | NLP model for modernizing Early Modern English text |
+| [ids706-rideshare-sql-guidebook](https://github.com/codeteme/ids706-rideshare-sql-guidebook) | SQL analytics on ride-sharing data using SQLite |
 
 ---
 
@@ -28,4 +42,4 @@
 
 ---
 
-> *"Without data you're just another person with an opinion."* — W. Edwards Deming
+> *"Without data you're just another person with an opinion."* - W. Edwards Deming
