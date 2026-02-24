@@ -1,4 +1,4 @@
-### Hi, I'm codeteme &nbsp;·&nbsp; Data Scientist · Data Engineer · AI Engineer
+### Hi, I'm Temesgen &nbsp;·&nbsp; Data Scientist · Data Engineer · AI Engineer
 
 ---
 
