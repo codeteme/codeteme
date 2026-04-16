@@ -35,11 +35,3 @@
 | Observability | MLflow · Weights & Biases · Great Expectations |
 
 ---
-
-**Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeteme&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
-> *"Without data you're just another person with an opinion."* - W. Edwards Deming
