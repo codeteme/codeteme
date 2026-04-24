@@ -14,6 +14,7 @@
 
 | Project | Description |
 |---|---|
+| [multi-agent-code-assistant](https://github.com/codeteme/multi-agent-code-assistant) | Agentic pipeline that scans, fixes, and validates Python code quality using four specialized LLM-powered agents |
 | [realtime-transit-pipeline](https://github.com/codeteme/realtime-transit-pipeline) | Real-time data ingestion and processing pipeline for public transit data |
 | [amazon-electronics-pyspark-pipeline](https://github.com/codeteme/amazon-electronics-pyspark-pipeline) | PySpark pipeline for large-scale Amazon electronics review analytics |
 | [airflow-yelp-pipeline](https://github.com/codeteme/airflow-yelp-pipeline) | End-to-end ETL pipeline orchestrated with Apache Airflow, loading Yelp data into PostgreSQL |
