@@ -14,6 +14,7 @@
 
 | Project | Description |
 |---|---|
+| [minitube](https://github.com/codeteme/minitube) | Full-stack microservices video platform featuring real-time chat, AI-powered summarization, and automated ASR transcription |
 | [prison-education-recidivism](https://github.com/codeteme/prison-education-recidivism) | Causal inference study using Difference-in-Differences (DiD) to analyze the impact of Pell Grant expansions on recidivism rates |
 | [detect-to-protect](https://github.com/codeteme/detect-to-protect) | Video-based collision risk prediction using multi-modal deep learning (VideoMAE, DepthAnything, YOLO) on dashcam footage |
 | [clinical-decision-support-engine](https://github.com/codeteme/clinical-decision-support-engine) | Clinical decision support engine predicting ICU mortality using survival analysis models on MIMIC-IV EHR data |
@@ -32,10 +33,8 @@
 
 | Layer | Tools |
 |---|---|
-| Languages | Python · SQL · Bash |
-| ML / AI | PyTorch · scikit-learn · Hugging Face · LangChain |
-| Data Engineering | dbt · Apache Spark · Airflow · Kafka |
-| Cloud & Infra | AWS · GCP · Docker · Kubernetes · Terraform |
-| Observability | MLflow · Weights & Biases · Great Expectations |
+| **Languages** | Python · **TypeScript** · **Vue.js** · SQL · Bash |
+| **ML / AI** | **OpenAI API** · **Whisper** · Computer Vision · PyTorch · LangChain |
+| **Backend & Infra** | **FastAPI** · Docker · PostgreSQL · Redis · WebSockets |
 
 ---
