@@ -14,6 +14,7 @@
 
 | Project | Description |
 |---|---|
+| [prison-education-recidivism](https://github.com/codeteme/prison-education-recidivism) | Causal inference study using Difference-in-Differences (DiD) to analyze the impact of Pell Grant expansions on recidivism rates |
 | [detect-to-protect](https://github.com/codeteme/detect-to-protect) | Video-based collision risk prediction using multi-modal deep learning (VideoMAE, DepthAnything, YOLO) on dashcam footage |
 | [clinical-decision-support-engine](https://github.com/codeteme/clinical-decision-support-engine) | Clinical decision support engine predicting ICU mortality using survival analysis models on MIMIC-IV EHR data |
 | [multi-agent-code-assistant](https://github.com/codeteme/multi-agent-code-assistant) | Agentic pipeline that scans, fixes, and validates Python code quality using four specialized LLM-powered agents |
