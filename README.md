@@ -14,6 +14,7 @@
 
 | Project | Description |
 |---|---|
+| [detect-to-protect](https://github.com/codeteme/detect-to-protect) | Video-based collision risk prediction using multi-modal deep learning (VideoMAE, DepthAnything, YOLO) on dashcam footage |
 | [clinical-decision-support-engine](https://github.com/codeteme/clinical-decision-support-engine) | Clinical decision support engine predicting ICU mortality using survival analysis models on MIMIC-IV EHR data |
 | [multi-agent-code-assistant](https://github.com/codeteme/multi-agent-code-assistant) | Agentic pipeline that scans, fixes, and validates Python code quality using four specialized LLM-powered agents |
 | [realtime-transit-pipeline](https://github.com/codeteme/realtime-transit-pipeline) | Real-time data ingestion and processing pipeline for public transit data |
