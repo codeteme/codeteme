@@ -14,6 +14,7 @@
 
 | Project | Description |
 |---|---|
+| [clinical-decision-support-engine](https://github.com/codeteme/clinical-decision-support-engine) | Clinical decision support engine predicting ICU mortality using survival analysis models on MIMIC-IV EHR data |
 | [multi-agent-code-assistant](https://github.com/codeteme/multi-agent-code-assistant) | Agentic pipeline that scans, fixes, and validates Python code quality using four specialized LLM-powered agents |
 | [realtime-transit-pipeline](https://github.com/codeteme/realtime-transit-pipeline) | Real-time data ingestion and processing pipeline for public transit data |
 | [amazon-electronics-pyspark-pipeline](https://github.com/codeteme/amazon-electronics-pyspark-pipeline) | PySpark pipeline for large-scale Amazon electronics review analytics |
