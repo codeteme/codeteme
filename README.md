@@ -4,7 +4,7 @@ M.S. Data Science @ Duke University (May 2027) · Previously AI/ML Intern, Mayo 
 
 I build applied AI and ML systems end to end: LLM applications and agents, predictive and causal models, and the data pipelines and APIs that put them into production. Much of my recent work is in healthcare. Open to full-time AI engineer, ML engineer, and data scientist roles starting July 2027.
 
-[Portfolio](https://portfolio-nine-mu-21.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/temesgen-tewolde) · [Google Scholar](https://scholar.google.com/citations?user=zk40gh0AAAAJ)
+[Portfolio](https://www.temesgentewolde.com/) · [LinkedIn](https://www.linkedin.com/in/temesgen-tewolde) · [Google Scholar](https://scholar.google.com/citations?user=zk40gh0AAAAJ)
 
 ---
 
