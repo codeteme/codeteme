@@ -1,10 +1,19 @@
-### Hi, I'm Temesgen &nbsp;·&nbsp; Data Scientist · LLM Evaluation & Clinical NLP
+### Hi, I'm Temesgen &nbsp;·&nbsp; AI Engineer · Data Scientist
 
 M.S. Data Science @ Duke University (May 2027) · Previously AI/ML Intern, Mayo Clinic Radiation Oncology
 
-I build and evaluate large language model systems for healthcare, with a focus on whether a model's output and reasoning can be trusted. Open to full-time roles starting July 2027.
+I build applied AI and ML systems end to end: LLM applications and agents, predictive and causal models, and the data pipelines and APIs that put them into production. Much of my recent work is in healthcare. Open to full-time AI engineer, ML engineer, and data scientist roles starting July 2027.
 
 [Portfolio](https://portfolio-nine-mu-21.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/temesgen-tewolde) · [Google Scholar](https://scholar.google.com/citations?user=zk40gh0AAAAJ)
+
+---
+
+**What I work on**
+
+- **AI engineering:** LLM applications, agents, RAG, structured extraction, and evaluation, shipped with FastAPI and React (Mayo Clinic ambient documentation system, multi-agent code assistant)
+- **Machine learning:** deep learning, computer vision, and model interpretability (dashcam collision prediction, MedLens)
+- **Data science:** predictive and survival models, causal inference, and statistical analysis (ICU mortality, Pell Grant recidivism study)
+- **Data engineering:** streaming and batch pipelines with Kafka, Spark, Airflow, and BigQuery
 
 ---
 
@@ -12,11 +21,11 @@ I build and evaluate large language model systems for healthcare, with a focus o
 
 | Project | What it shows |
 |---|---|
-| [medlens-honesty](https://github.com/codeteme/medlens-honesty) | Does a medical LLM's reasoning report what changed its answer? Planted hints changed MedGemma 4B's answer in 912 runs; the reasoning mentioned the hint in only 3.3%. A probe on layer-22 activations flags silent hint-following at AUROC 0.98, vs. 0.56–0.72 for text-only detectors. (PyTorch, Gemma Scope 2, vLLM on TPU) |
 | [multi-agent-code-assistant](https://github.com/codeteme/multi-agent-code-assistant) | Four LLM agents scan, fix, and validate Python code in a retry loop, plus an agentic mode where the LLM drives the tools. RAG over existing tests (ChromaDB); CLI, Dockerized REST API, and VS Code extension. |
 | [clinical-decision-support-engine](https://github.com/codeteme/clinical-decision-support-engine) | Predicts ICU mortality with survival analysis models on MIMIC-IV EHR data. |
-| [prison-education-recidivism](https://github.com/codeteme/prison-education-recidivism) | Difference-in-differences study of the 2016 Second Chance Pell expansion and two-year recidivism across 34 states. |
+| [medlens-honesty](https://github.com/codeteme/medlens-honesty) | Checks whether a medical LLM's written reasoning reports what changed its answer (it mentioned a planted hint in only 3.3% of 912 changed answers), then detects it from internal activations with a probe (AUROC 0.98). PyTorch, Gemma Scope 2, vLLM on TPU. |
 | [detect-to-protect](https://github.com/codeteme/detect-to-protect) | Collision risk prediction from dashcam video with multi-modal deep learning (VideoMAE, DepthAnything, YOLO). |
+| [prison-education-recidivism](https://github.com/codeteme/prison-education-recidivism) | Difference-in-differences study of the 2016 Second Chance Pell expansion and two-year recidivism across 34 states. |
 | [minitube](https://github.com/codeteme/minitube) | Full-stack microservices video platform with real-time chat, AI summarization, and automated ASR transcription. |
 
 **Data engineering**
@@ -53,7 +62,8 @@ I build and evaluate large language model systems for healthcare, with a focus o
 
 | Layer | Tools |
 |---|---|
-| **LLMs & NLP** | OpenAI API · Gemini · LangChain · RAG · Whisper · spaCy · LLM evaluation |
-| **ML & Interpretability** | PyTorch · Hugging Face Transformers · SAELens · vLLM · scikit-learn · MLflow |
 | **Languages** | Python · SQL · R · TypeScript · Bash |
-| **Backend & Data** | FastAPI · Docker · PostgreSQL · Redis · BigQuery · PySpark · Airflow · Kafka · GCP |
+| **AI & LLMs** | OpenAI API · Gemini · LangChain · RAG · Whisper · spaCy · prompt engineering · evaluation |
+| **Machine Learning** | PyTorch · Hugging Face Transformers · scikit-learn · XGBoost · MLflow · vLLM · SAELens |
+| **Data & Statistics** | Pandas · survival analysis · causal inference (DiD) · BigQuery · PySpark · Airflow · Kafka |
+| **Backend & Cloud** | FastAPI · React · Docker · PostgreSQL · Redis · GCP · AWS (S3) |
